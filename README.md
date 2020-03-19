@@ -19,9 +19,9 @@ Chinese:
 
 一个简便的配置制作器，适用于https://github.com/lz233/OneText_For_Android 
 
-Windows版由https://github.com/sfubuki5使用Windows批处理编写（中文编码为GBK）
+Windows版由https://github.com/sfubuki5 使用Windows批处理编写（中文编码为GBK）
 
-Linux版由https://github.com/xbl233编写 
+Linux版由https://github.com/xbl233 编写 
 
 Windows版本已完全可用并且不需要任何附带文件并且自带中文化翻译 
 
@@ -29,4 +29,4 @@ Linux版需要一个.json文件作为写入文件，如果.json文件不存在�
 
 Linux版用法:OTCreater.sh ［文件名.json］
 
-这两个版本也同时可以在https://github.com/xbl233/OneText-Creater获取
+这两个版本也同时可以在https://github.com/xbl233/OneText-Creater 获取
