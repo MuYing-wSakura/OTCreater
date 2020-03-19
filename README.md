@@ -9,7 +9,7 @@ Linux version written by https://github.com/xbl233
 
 Windows version is fully functional and have built in Chinese translation(Chinese code is GBK)
  
-Linux version require a .json file as a base,if file not exist,it will create a standard .json file.
+Linux version require a .json file as a base,if the file not exist,it will create a standard .json file.
 
 Linux version usage:OTCreater.sh [filename.json]
 
