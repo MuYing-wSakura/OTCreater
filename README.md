@@ -1,7 +1,7 @@
 # OTCreater
 English:
 
-A easy configcreater for https://github.com/lz233/OneText_For_Android 
+A easy config creater for https://github.com/lz233/OneText_For_Android 
 
 Windows version written by https://github.com/sfubuki5 in Windows batch 
 
