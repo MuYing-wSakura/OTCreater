@@ -3,9 +3,9 @@ English:
 
 A easy config creater for https://github.com/lz233/OneText_For_Android 
 
-Windows version written by https://github.com/sfubuki5 in Windows batch 
+Windows version written by [sfubuki5](https://github.com/sfubuki5) in Windows batch 
 
-Linux version written by https://github.com/xbl233 
+Linux version written by [xbl233](https://github.com/xbl233) 
 
 Windows version is fully functional and have built in Chinese translation
  
@@ -15,9 +15,9 @@ Chinese:
 
 一个简便的配置制作器，适用于https://github.com/lz233/OneText_For_Android 
 
-Windows版由https://github.com/sfubuki5使用Windows批处理编写 
+Windows版由[sfubuki5](https://github.com/sfubuki5)使用Windows批处理编写 
 
-Linux版由https://github.com/xbl233编写 
+Linux版由[xbl233](https://github.com/xbl233)编写 
 
 Windows版本已完全可用并且不需要任何附带文件并且自带中文化翻译 
 
